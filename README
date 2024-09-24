@@ -1,0 +1,32 @@
+Fashion Sales Project Dashboard 📊👗
+Overview
+This project visualizes fashion sales data using Power BI dashboards. It provides key insights into total sales, profit, average sales, and category-specific data, allowing for comprehensive analysis and business decision-making. 📈👕
+
+Features
+1. Total Sales Dashboard
+Visualizes total sales across different countries and towns.
+Displays a breakdown of sales by product name (e.g., Kurta Sets, T-shirts).
+Highlights sales performance by retailers.
+Analysis of sales trends by year and category (Increase, Decrease, Total, and Others).
+
+2. Month-on-Month (MoM) Sales Dashboard
+Tracks monthly sales performance over a period of time.
+Shows sales changes month by month with a graph to highlight fluctuations.
+
+Insights and Learnings 📚
+Identify top-performing products and regions.
+Track sales trends over time to understand growth or decline.
+Analyze retailer performance to identify top sellers.
+Month-on-Month analysis provides a clear picture of how sales fluctuate over the year.
+Tech Stack ⚙️
+Power BI for data visualization.
+Excel/CSV for initial data cleaning and analysis.
+How to Use 🚀
+Clone the repository.
+Open the Power BI .pbix file included in the repository.
+Explore the dashboards to get insights on sales performance.
+Future Work
+Integrating predictive analytics for future sales trends.
+Adding more data sources for deeper insights.
+Contributing 💡
+Feel free to contribute by opening issues or submitting pull requests. Let's make this project even better!
