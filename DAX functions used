@@ -1,0 +1,11 @@
+DAX FUNCTIONS 
+
+1. currentqtrsales = SUM(Sales[Quarter])
+2. gross profit = Sales[total Sales]-Sales[total cost]
+3. SaleChanges = Sales[TOTAL]-Sales[SalesLastMonth]
+4. SalesLastMonth = CALCULATE([TOTAL],DATEADD(Sales[Date],-1,MONTH))
+5. TOTAL = SUM(Sales[total Sales])
+6. total cost = Sales[Units]*RELATED('Product'[StandardCost])
+7. total Sales = Sales[Units] * RELATED('Product'[RetailPrice]) * (1-Sales[RevenueDiscount])
+8. YEAR-MONTH = FORMAT([Date],"YYYY-MM")
+9. average = SUM('Sales'[Total Sales])/SUM('Sales'[Units])
